@@ -102,10 +102,10 @@ The dashboard serves as a tool to:
 ## Visuals 🗺️
 
 ### Credit Card Customer Report
-![Credit Card Customer Report](./assets/customer_report.png)
+![Credit Card Customer Report]()
 
 ### Credit Card Transaction Report
-![Credit Card Transaction Report](./assets/transaction_report.png)
+![Credit Card Transaction Report]()
 
 ---
 
