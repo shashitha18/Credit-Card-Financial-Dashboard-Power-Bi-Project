@@ -87,9 +87,12 @@ The dashboard serves as a tool to:
 
 ## Visuals 🗺️
 
+![Interactive Dashboard Demo](Screenshot 2025-01-09 102123.png)
+![Interactive Dashboard Demo](Screenshot 2025-01-09 103452.png)
+
 ### Credit Card Transaction Report
 ![Credit Card Transaction Report](Credit Card Customer Report.gif)
-Screenshot 2025-01-09 102123.png
+(Screenshot 2025-01-09 102123.png)
 
 ### Credit Card Customer Report
 ![Credit Card Customer Report](Credit Card Transcation Report.gif)
