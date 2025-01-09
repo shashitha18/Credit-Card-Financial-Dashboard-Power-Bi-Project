@@ -24,7 +24,6 @@ The dashboard serves as a tool to:
 - Provide insights into transaction behaviors, including revenue by card type, customer job, and usage method (e.g., swipe, chip, online).
 - Demonstrate an end-to-end data analysis pipeline, leveraging SQL databases and Power BI for insights.
 
-![Overview](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
 ---
 
@@ -45,8 +44,6 @@ The dashboard serves as a tool to:
   - Revenue by usage method: Swipe, chip, and online.
   - Expenditure analysis across bills, entertainment, groceries, fuel, food, and travel.
 
-![Key Features](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ---
 
 ## Data Insights 🔎
@@ -63,8 +60,6 @@ The dashboard serves as a tool to:
   - Swipe transactions dominate ($35M), followed by chip ($17M) and online ($3M).
 - **Revenue by Customer Job**: Business professionals and white-collar employees lead the revenue.
 - **Revenue by Expenditure Type**: Bills ($14M), entertainment ($10M), groceries ($9M), and travel ($6M).
-
-![Data Insights](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
 
 ---
 
@@ -87,15 +82,6 @@ The dashboard serves as a tool to:
 4. **Publish Dashboard**:
    - Publish the Power BI dashboard to the Power BI Service.
    - Share an interactive link for stakeholders to view.
-
-### Repository Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-dashboard.git
-   ```
-2. Open the Power BI file (.pbix) in Power BI Desktop.
-3. Connect to your data source (SQL database or mock data).
-4. Explore the interactive visuals and insights.
 
 ---
 
@@ -133,8 +119,6 @@ The dashboard serves as a tool to:
 - Include more demographic filters (e.g., region, profession).
 - Expand expenditure categories for deeper insights.
 - Automate SQL queries and data refresh in Power BI.
-
-![Future Enhancements](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
