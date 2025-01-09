@@ -24,6 +24,8 @@ The dashboard serves as a tool to:
 - Provide insights into transaction behaviors, including revenue by card type, customer job, and usage method (e.g., swipe, chip, online).
 - Demonstrate an end-to-end data analysis pipeline, leveraging SQL databases and Power BI for insights.
 
+![Overview](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+
 ---
 
 ## Key Features 🌟
@@ -42,6 +44,8 @@ The dashboard serves as a tool to:
   - Revenue by card type: Blue, Silver, Gold, Platinum.
   - Revenue by usage method: Swipe, chip, and online.
   - Expenditure analysis across bills, entertainment, groceries, fuel, food, and travel.
+
+![Key Features](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
@@ -130,8 +134,15 @@ The dashboard serves as a tool to:
 - Expand expenditure categories for deeper insights.
 - Automate SQL queries and data refresh in Power BI.
 
+![Future Enhancements](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 ---
 
+## Contributing ❤️
 
-Thank you for exploring this dashboard! If you find it helpful, give this repository a star ⭐😁😁.
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
+
+---
+
+Thank you for exploring this dashboard! If you find it helpful, give this repository a star ⭐.
 
