@@ -101,11 +101,11 @@ The dashboard serves as a tool to:
 
 ## Visuals 🗺️
 
-### Credit Card Customer Report
-![Credit Card Customer Report](Credit Card Customer Report.gif)
-
 ### Credit Card Transaction Report
-![Credit Card Transaction Report](Credit Card Transcation Report.gif)
+![Credit Card Transaction Report](Credit Card Customer Report.gif)
+
+### Credit Card Customer Report
+![Credit Card Customer Report](Credit Card Transcation Report.gif)
 
 ---
 
